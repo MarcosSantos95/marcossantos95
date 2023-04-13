@@ -1,12 +1,16 @@
+
+
 ### Óla eu sou o Marcos Santos 👋
 <br>
-<h4>Tenho 27 anos, sou um programador Front End, atualmente estou aprendendo e criando projetos</h4>
+<p>Tenho 27 anos, sou um programador Front End, atualmente estou aprendendo e criando projetos</p>
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marquinhos.santos95/)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marquinhos.santos.148)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 
  ![MarcosSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSantos95&show_icons=true&theme=radical)
+ <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSantos95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia:
 
@@ -32,5 +36,9 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+
+ 
 
  
